@@ -1,4 +1,4 @@
-# systemDesigns
+# System Designs
 
 ## What are Systems? or What is a System?
 -> In computer system design, a "system" typically refers to a collection of components, softwares,
@@ -10,3 +10,7 @@ with each other to achieve a common goal, such a processing data, executing task
 for constructing a system that meets specified requirements and objects. Designs invloves making decisions
 about the architecture, components, interfaces and interactions of the system to achieve desired 
 functionality, performance, reliability and other quality attributes.
+
+**Components of System Design**
+1) Logical Entities
+2) Tangible Entities
