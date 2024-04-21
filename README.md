@@ -14,3 +14,20 @@ functionality, performance, reliability and other quality attributes.
 **Components of System Design**
 1) Logical Entities
 2) Tangible Entities
+
+1) Logical Entities
+   - Data
+   - Databases
+   - Applications
+   - Cache
+   - Message Queues
+   - Infra
+   - Communication
+  
+2) Tangible Entities
+   - Texxt, images, videos
+   - MongoDB, MySQL, Cassandra
+   - Java, Golang, React
+   - Kafka, RabbitMQ
+   - AWS, GCP, Azure
+   - APIs, RPCs
